@@ -1,0 +1,14 @@
+package config
+
+const ServerPort = "8089"
+
+var (
+	// ServerAddr: 客户端默认连接地址（host:port）
+	ServerAddr = "127.0.0.1:" + ServerPort
+
+	// ServerListenAddr: 服务端默认监听地址
+	ServerListenAddr = ":" + ServerPort
+
+	// Passphrase: 客户端默认口令，同时也是服务端校验口令
+	Passphrase = "CHANGE_ME"
+)
