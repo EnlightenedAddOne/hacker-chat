@@ -83,7 +83,6 @@ hacker-chat/
 
 ## 配置方式
 
-当前版本使用代码内置配置，不依赖 `json` 配置文件。
 
 统一配置入口：`internal/config/config.go`
 
