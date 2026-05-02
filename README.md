@@ -18,6 +18,9 @@
 - 新客户端连入自动下发最近历史（瞬时渲染）
 - 终端打字机/乱码解密特效
 
+<img width="1746" height="737" alt="hacker-chat" src="https://github.com/user-attachments/assets/b94b499e-2909-452b-848d-31a668b28a4a" />
+
+
 ## 项目结构
 
 ```text
